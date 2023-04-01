@@ -40,7 +40,7 @@ def f(x):
 a = 0
 b = 1
 N = 1000
-n = 10
+n = 1000
 
 x = np.linspace(a, b, N+1)
 y = f(x)
